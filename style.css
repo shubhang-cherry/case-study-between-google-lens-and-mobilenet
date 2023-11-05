@@ -1,0 +1,49 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+  float: none;
+  background: white ;
+  padding: 10px; 
+  border-radius: 20px; 
+  color: black;
+  box-shadow:5px 5px 5px grey;
+}
+.heading_div2
+{
+  font-size: 18px ;
+}
+
+.copy_right_footer 
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height:3 ;
+  text-align: center;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+   
+}
+
+#ac {
+  height: 80px;
+}
+
+#result2 {
+  float: none;
+  margin-left: 500px;
+}
+#h4 {
+  margin-left: 510px;
+}
